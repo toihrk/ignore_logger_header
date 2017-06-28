@@ -1,5 +1,6 @@
 # IgnoreLoggerHeader
 
+[![Gem Version](https://badge.fury.io/rb/ignore_logger_header.svg)](https://badge.fury.io/rb/ignore_logger_header)
 [![Build Status](https://travis-ci.org/toihrk/ignore_logger_header.svg?branch=master)](https://travis-ci.org/toihrk/ignore_logger_header)
 
 Utility for ignoring the header of the logger.
